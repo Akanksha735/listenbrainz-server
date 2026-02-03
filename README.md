@@ -57,9 +57,9 @@ If you are interested in helping out, consider
 [donating](https://metabrainz.org/donate) to the MetaBrainz Foundation.
 
 If you are interested in contributing code or documentation,
-please have a look at the [issue tracker](https://tickets.metabrainz.org/browse/LB)
+Please have a look at the [issue tracker](https://tickets.metabrainz.org/browse/LB)
 or chat with us in [IRC/Matrix/Discord](https://musicbrainz.org/doc/Communication/ChatBrainz)
-on the #metabrainz channel.
+with Matrix being the primary and recommended channel, in the #metabrainz room.
 
 ## Development environment
 
@@ -69,7 +69,7 @@ Installation in a production environment may be different.
 **Read the [development environment
 documentation](https://listenbrainz.readthedocs.io/en/latest/developers/devel-env.html  "Setting up a development environment - ListenBrainz documentation")**
 
-In order to work with Spark, you'll have to setup the Spark development environment.
+In order to work with Spark, you'll have to set up the Spark development environment.
 Read the [documentation](https://listenbrainz.readthedocs.io/en/latest/developers/spark-devel-env.html).
 
 ## Documentation
